@@ -32,5 +32,35 @@ AI  and deep learning
 - setting hotel price
 Artificial inteligence any process whereby you task or prompt a computer to imitate human behavior
 Machine Learning :apply stats to data problems in effort to discover new knowledge
-Deep learning using complex techniques called neural 
+Deep learning using complex techniques called neural
+Governanace makes that an organisation has high quality data and that it is able to control data.
+analytical tools , software that helps analysts work on each one of the phases of the analytical process.
+These tools help automate much of the heavy and essential work of analysis and provide invalueable asisitance in communication and reporting
+Understanding Data:
+Data Element  - attribute about a palce, person or thing.
+Data Types : different formats of data
+Tabular Dat: data in table formatt , rows and columns. each row reprsents a recored of a single instance
+Structured Data ii tabular every intersection with a row and column is a cell
+Character: can be alphabet or number
+Alphanumeric : this data type consists alphabets and numbers in one data element
+NAUMERIC DATA : intergers and numeric
+ WHOLE NUMBER : 0,100
+iNTEGER: 0 ,100
+Date Time : yyyy-mm-dd
+currrency: decimals
+Categories of Data:
+Quantitive Data and Qualitive data : Quantivie is numeric data answers questions like how much , and Qualitive data is descriptive data
+Numeric data  : Discrete and contious data eg age :27 , weight = 82.4
+Catergoral data : type
+Dimensional data ; arranging data to facilitate analysis, models data into fact tables{store measurement data} and dimensional tables{contain data about the Fact}
+Structured Data: consistent data makes it easy summarise data or analyze
+unStructured Data: descriptive data , usually has characters that describe data type on pictures,audio,files
+Common file formats
+-csv comma separated values
+-xml extensible markup language
+-html
+-text files
+-Json Javascript Objet Not
+
+
    
