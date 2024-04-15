@@ -1,6 +1,6 @@
 # DataAnalytics-week1
 Data analysis is the process of analysing raw data to pull out insights which are usefull to companies
-All about finding patterns in the data obetter under the companies operations
+All about finding patterns in the data to better understand the companies operations
 Used to : predict future sales and customer purchsing behaviours, Security purposes to help against fruad, analyize the effectiveness og marketing campaigns, to boast customer aquisition retention an increase supply chain efficiency.
 Roles of a Data Analyst:
 - manage delivery of user satisfaction surveys and report on the results using visualization software
@@ -15,10 +15,9 @@ Typical processes of Data Analysts:
  - Define the problem and make an hypothesis about the problem , what data is needed and where do you get it.
  - collect from primary sources or secondary sources or internal data , marketing tools or crm software
  - clean the data and prepare it for analysis , original data might have duplicates ,anamolies, missing data
- - Analyse da
- -
+
  - tass , regression , time-series  cluster analysis.
- - interpret an share the results, present results into graphs
+ - interpret and share the results, present results into graphs
 Skill needed: Mathemetical skills, knowlegde of programming lanauges . phython , oracle and sql, analytical mindset.
 Analytical programs: Data, storage and computing are the pillars then governance being the  base
 Analytical Process:
@@ -39,8 +38,8 @@ These tools help automate much of the heavy and essential work of analysis and p
 Understanding Data:
 Data Element  - attribute about a palce, person or thing.
 Data Types : different formats of data
-Tabular Dat: data in table formatt , rows and columns. each row reprsents a recored of a single instance
-Structured Data ii tabular every intersection with a row and column is a cell
+Tabular Data: data in table formatt , rows and columns. each row reprsents a recored of a single instance
+Structured Data is tabular every intersection with a row and column is a cell
 Character: can be alphabet or number
 Alphanumeric : this data type consists alphabets and numbers in one data element
 NAUMERIC DATA : intergers and numeric
