@@ -36,7 +36,7 @@ Governanace makes that an organisation has high quality data and that it is able
 analytical tools , software that helps analysts work on each one of the phases of the analytical process.
 These tools help automate much of the heavy and essential work of analysis and provide invalueable asisitance in communication and reporting
 Understanding Data:
-Data Element  - attribute about a palce, person or thing.
+Data Element  - attribute about a place, person or thing.
 Data Types : different formats of data
 Tabular Data: data in table formatt , rows and columns. each row reprsents a recored of a single instance
 Structured Data is tabular every intersection with a row and column is a cell
